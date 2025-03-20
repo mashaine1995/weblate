@@ -84,7 +84,8 @@ version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY
 WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-PARTICULAR PURPOSE. See the `GNU General Public License
+PARTICULAR PURPOSE. See the `GNU General Private License
 <https://www.gnu.org/licenses/gpl-3.0.html>`_ for more details.
 
 .. _weblate.org: https://weblate.org/
+private
